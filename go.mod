@@ -1,3 +1,3 @@
 module github.com/lavin-ds/modified-anatole
 
-go 1.12
+go 1.19
